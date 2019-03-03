@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnLogout" type="id" />
+    <item name="welcomeText" type="id" />
+    <item name="etreceptionIdId" type="id" />
+</resources>
